@@ -1,0 +1,14 @@
+com/joinbubble/MainApplication.java
+ com.joinbubble.MainApplication
+ com.joinbubble.MainApplication$1
+com/joinbubble/BuildConfig.java
+ com.joinbubble.BuildConfig
+com/joinbubble/ReactNativeFlipper.java
+ com.joinbubble.ReactNativeFlipper
+ com.joinbubble.ReactNativeFlipper$1
+ com.joinbubble.ReactNativeFlipper$2
+ com.joinbubble.ReactNativeFlipper$2$1
+com/joinbubble/MainActivity.java
+ com.joinbubble.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

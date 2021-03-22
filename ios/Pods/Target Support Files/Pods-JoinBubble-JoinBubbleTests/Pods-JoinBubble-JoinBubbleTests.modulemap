@@ -1,0 +1,6 @@
+module Pods_JoinBubble_JoinBubbleTests {
+  umbrella header "Pods-JoinBubble-JoinBubbleTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

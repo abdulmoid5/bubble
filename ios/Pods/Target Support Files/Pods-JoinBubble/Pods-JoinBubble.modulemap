@@ -1,0 +1,6 @@
+module Pods_JoinBubble {
+  umbrella header "Pods-JoinBubble-umbrella.h"
+
+  export *
+  module * { export * }
+}
